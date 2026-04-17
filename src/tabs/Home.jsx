@@ -3,17 +3,19 @@ import "./Home.css";
 export default function Home({ data }) {
   const { profile, aboutMe, researchInterests, education, awards, news } = data;
 
+  const baseUrl = import.meta.env.BASE_URL;
+  
   return (
     <div className="home-page">
       <section className="hero-section">
         <div className="hero-photo">
-          <img src={profile.avatar} alt={profile.name} className="avatar-img" />
+          <img src={`${baseUrl}${profile.avatar}`} alt={profile.name} className="avatar-img" />
         </div>
         <div className="hero-info">
           <h1 className="hero-name">{profile.name}</h1>
           <p className="hero-role">{profile.title}</p>
           <div className="hero-affiliation-group">
-            <img src="current-insti.png" alt="Institute Logo" className="insti-logo" />
+            <img src={`${baseUrl}current-insti.png`} alt="Institute Logo" className="insti-logo" />
             <div className="insti-text-group">
               <p className="hero-affiliation">{profile.department}</p>
               <p className="hero-affiliation">{profile.institution}</p>
