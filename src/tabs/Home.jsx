@@ -13,7 +13,7 @@ export default function Home({ data }) {
           <h1 className="hero-name">{profile.name}</h1>
           <p className="hero-role">{profile.title}</p>
           <div className="hero-affiliation-group">
-            <img src="/current-insti.png" alt="Institute Logo" className="insti-logo" />
+            <img src="current-insti.png" alt="Institute Logo" className="insti-logo" />
             <div className="insti-text-group">
               <p className="hero-affiliation">{profile.department}</p>
               <p className="hero-affiliation">{profile.institution}</p>
