@@ -1,0 +1,50 @@
+{
+  "_comment": "Funded projects, FDPs and Patents.",
+  "fundedProjects": [
+    {
+      "title": "New Authentication Techniques for Telecare Medicine Information System",
+      "fundingAgency": "EMEQ Scheme, SERB, India",
+      "amount": "12,59,600/- Rupees",
+      "duration": "3 Years",
+      "status": "Completed"
+    }
+  ],
+  "fundedFDPs": [
+    {
+      "title": "Six days Online AICTE-QIP STTP on 'Fundamental of Deep Learning: Dive into Deep Learning'",
+      "date": "14th to 21st March 2022",
+      "funding": "approx. 95,000/- rupees"
+    },
+    {
+      "title": "One Week Online ATAL FDP on 'Data Science & Analytics Using Python'",
+      "date": "30th November 2020 to 4th December, 2020",
+      "funding": "approx. 1,00,000/- rupees"
+    }
+  ],
+  "patents": [
+    {
+      "year": "2024",
+      "title": "SmartDisk: A Portable, Wireless Solution for Data Storage and Backup with Version Control",
+      "inventors": "Jjateen Gundesha, Nileshchandra Pikle, Tausif Diwan, Snehal B Shinde and Jitendra V. Tembhurne",
+      "patentNo": "202421091766",
+      "date": "25th Nov 2024",
+      "agency": "The Patent Office, Govt. of India, Mumbai"
+    },
+    {
+      "year": "2021",
+      "title": "Application of Clustering in Wireless Sensor Network for Forest Fire Detection and Prevention",
+      "inventors": "Dipak W. Wajgi and Jitendra V. Tembhurne",
+      "patentNo": "202121024526 A",
+      "date": "9th July 2021",
+      "agency": "The Patent Office Journal No. 28/2021, Govt. of India, Mumbai"
+    },
+    {
+      "year": "2021",
+      "title": "An IoT based Smart Food-Cold Chain Transportation System",
+      "inventors": "Pooja Jain, Jitendra V. Tembhurne, Tapan Jain and Tausif Diwan",
+      "patentNo": "2021103138",
+      "date": "7th July 2021 (Granted)",
+      "agency": "Innovation Patent Australia, Australian Government"
+    }
+  ]
+}

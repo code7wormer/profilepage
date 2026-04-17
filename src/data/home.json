@@ -1,0 +1,98 @@
+{
+  "_comment": "Homepage data: profile info, about me bio, research interests, education, awards, and news.",
+
+  "profile": {
+    "name": "Dr. Jitendra V. Tembhurne",
+    "title": "Assistant Professor",
+    "department": "Department of Computer Science and Engineering",
+    "institution": "Indian Institute of Information Technology Nagpur",
+    "address": "Nagpur, Maharashtra, India - 441 108",
+    "contact": {
+      "email": "jtembhurne@iiitn.ac.in",
+      "mobile": "+91 98235 04363",
+      "linkedin": "https://in.linkedin.com/in/dr-jitendra-v-tembhurne-40777a17",
+      "googleScholar": "https://scholar.google.com/citations?user=4UUerrsAAAAJ&hl=en"
+    },
+    "avatar": "/profile.jpg"
+  },
+
+  "aboutMe": "Dr. Jitendra V. Tembhurne is an Assistant Professor in the Department of Computer Science and Engineering at the Indian Institute of Information Technology (IIIT) Nagpur, where he has been a faculty member since 2018. He also served as the Head of the Department from 2020 to 2022. He earned his Ph.D. from Visvesvaraya National Institute of Technology (VNIT), Nagpur in 2017, specializing in Parallel Computing. He received his M.E. with Distinction (University Rank Holder) from MGM's College of Engineering, Nanded, and his B.E. from Kavikulguru Institute of Technology & Science (KITS), Ramtek, Nagpur.\n\nHis research spans Deep Learning, Machine Learning, Cyber Security, IoT, Wireless Sensor Networks, and Parallel Computing. He has published over 45 journal papers (26 SCI, 19 Scopus-indexed), 7 book chapters, 14 conference papers, 2 preprints, and 19 internship publications. He holds 3 patents (including one Australian patent). He has successfully completed a funded research project under the EMEQ Scheme, SERB, India, and has supervised 3 completed Ph.D. students with 10 ongoing.\n\nDr. Tembhurne actively serves as a reviewer for top-tier journals including IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cloud Computing, IEEE Transactions on Mobile Computing, ACM Transactions on Multimedia Computing, and many more. He is UGC-NET qualified and GATE qualified in Computer Science.",
+
+  "researchInterests": {
+    "_comment": "Add a short intro paragraph and then bullet points for specific research areas.",
+    "intro": "His research focuses on Machine Learning, Deep Learning, Parallel Computing, Cyber Security, and IoT. His work aims to develop innovative techniques in the following areas:",
+    "areas": [
+      "Competitive Programming & Algorithms: efficient problem-solving and algorithmic optimizations",
+      "Parallel & Quantum Computing: parallel algorithms for cryptographic operations, GCD computation, and parameter estimation in NISQ devices",
+      "Cyber Security & Authentication: lightweight multifactor authentication techniques for Telecare Medicine Information Systems (TMIS)",
+      "Internet of Things (IoT) & WSN: smart food-cold chain systems, forest fire detection, and RSSI/AoA based localization",
+      "Deep Learning Applications: medical diagnosis (cancer, heart disease, stroke, Alzheimer's), plant disease detection, and sentiment analysis",
+      "Federated Learning: privacy-preserving and contextual cross-attention frameworks for multicenter diverse datasets"
+    ]
+  },
+
+  "education": [
+    {
+      "period": "2012 - 2017",
+      "institution": "Visvesvaraya National Institute of Technology (VNIT), Nagpur, India",
+      "degree": "Ph.D in Computer Science & Engineering",
+      "specialization": "Parallel Computing"
+    },
+    {
+      "period": "2008 - 2011",
+      "institution": "MGM's College of Engineering, Nanded, India",
+      "degree": "M.E. in Computer Science & Engineering",
+      "specialization": "DISTINCTION, University Rank Holder"
+    },
+    {
+      "period": "1999 - 2003",
+      "institution": "Kavikulguru Institute of Technology & Science (KITS), Ramtek, Nagpur, India",
+      "degree": "B.E. in Computer Technology",
+      "specialization": ""
+    }
+  ],
+
+  "awards": [
+    "University Rank Holder in M.E. Computer Science & Engineering, MGM's College of Engineering, Nanded (2008 - 2011)",
+    "Distinction Holder in M.E. Computer Science & Engineering, MGM's College of Engineering, Nanded (2008 - 2011)",
+    "UGC-NET June 2015 qualified for Assistant Professor",
+    "GATE Qualified in 2003, 2006, 2008 in Computer Science",
+    "Best Paper Award in Intelligent Technologies Track, 18th International Conference on Distributed Computing and Intelligent Technology (ICDCIT 2022)",
+    "Completed funded research project under EMEQ Scheme, SERB, India (Rs. 12,59,600/-)"
+  ],
+
+  "news": [
+    {
+      "date": "April 2026",
+      "text": "Paper on 'C2AF: A Contextual Cross-Attention Fusion Framework for Sentiment-Aware Stock Trading Signal Prediction' published in Computational Economics (SCI Q2)"
+    },
+    {
+      "date": "March 2026",
+      "text": "Paper on 'Deep Learning for Lung and Colorectal Cancer Diagnosis' published in Archives of Computational Methods in Engineering (SCI Q1, IF 12.1)"
+    },
+    {
+      "date": "January 2026",
+      "text": "Paper on 'Quantum State Measurement System' published in IEEE Transactions on Instrumentation & Measurement (SCI Q1, IF 5.9)"
+    },
+    {
+      "date": "June 2025",
+      "text": "Paper on 'Enhancing Federated Learning through Differential Privacy: FedHybrid' published in IEEE Transactions on Emerging Topics in Computational Intelligence (SCI Q1, IF 5.3)"
+    },
+    {
+      "date": "November 2024",
+      "text": "Patent granted: 'SmartDisk: A Portable, Wireless Solution for Data Storage and Backup with Version Control' (Patent No. 202421091766)"
+    },
+    {
+      "date": "October 2024",
+      "text": "Paper on 'Twitter Sentiment Analysis Using Ensemble' published in Knowledge and Information Systems (SCI Q1)"
+    },
+    {
+      "date": "November 2023",
+      "text": "PhD student Dr. Dipak Wajgi successfully defended thesis on 'RSSI and AoA Based Localization in Wireless Sensor Networks Using Clustering'"
+    },
+    {
+      "date": "September 2022",
+      "text": "PhD student Dr. Vishesh Gaikwad successfully defended thesis under Visvesvaraya PhD Scheme"
+    }
+  ]
+}

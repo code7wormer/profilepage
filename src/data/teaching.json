@@ -1,0 +1,31 @@
+{
+  "_comment": "Add course Title, Course Info (with clear bullet points), and Course Description (normal text + option to add bullets). Follow the template.",
+  "teachingInterests": [
+    "Competitive Programming",
+    "Database Management Systems",
+    "Algorithms",
+    "Parallel Computing",
+    "Theory of Computation",
+    "Quantum Computing",
+    "Machine Learning",
+    "Cyber Security"
+  ],
+  "courses": [
+    {
+      "title": "Example Course Title",
+      "term": "Fall 2026",
+      "info": [
+        "Course Code: CS101",
+        "Credits: 4",
+        "Target Audience: B.Tech 1st Year"
+      ],
+      "description": {
+        "text": "This is an introductory course on theoretical foundations. Use the array below to add bullets, or leave empty if none.",
+        "bullets": [
+          "Module 1: Introduction",
+          "Module 2: Advanced Topics"
+        ]
+      }
+    }
+  ]
+}

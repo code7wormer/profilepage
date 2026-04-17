@@ -1,0 +1,105 @@
+{
+  "_comment": "PhD Supervision and Internships. Add or remove items as needed.",
+  "phdSupervision": {
+    "summary": {
+      "Awarded Under Visvesvaraya PhD Scheme": "01",
+      "Awarded Under Institute PhD Scheme": "02",
+      "Going-on Under Institute PhD Scheme": "10"
+    },
+    "completed": [
+      {
+        "candidate": "Dr. Vishesh Gaikwad",
+        "date": "Sept 2022",
+        "scheme": "Visvesvaraya PhD Scheme",
+        "title": "Multifactor Lightweight Authentication Techniques for Telecare Medicine Information System",
+        "working": "Assistant Professor, SVNIT, Surat"
+      },
+      {
+        "candidate": "Dr. Dipak Wajgi",
+        "date": "16th Nov 2023",
+        "scheme": "Institute PhD Scheme",
+        "title": "RSSI and AoA Based Localization in Wireless Sensor Networks Using Clustering",
+        "working": "Assistant Professor, SVPCET, Nagpur"
+      },
+      {
+        "candidate": "Dr. Madhuri Dubey",
+        "date": "Completed",
+        "scheme": "Institute PhD Scheme",
+        "title": "Improvised Heart Disease Prediction Using Ensemble Learning and Privacy-preserving Federated Learning Across Multicentered Diverse Datasets",
+        "working": ""
+      }
+    ],
+    "ongoingCount": "Ten (10) PhD supervision is going on at Institute level."
+  },
+  "internships": [
+    {
+      "year": "2019",
+      "students": [
+        {
+          "name": "Saket Chaturvedi",
+          "institution": "PCE, Nagpur",
+          "duration": "2 Months",
+          "details": [
+            "Publication: S. Chaturvedi, Jitendra V. Tembhurne, Tausif Diwan, 'A Multi-Class Skin Cancer Classification using Deep Convolutional Neural Networks', Multimedia Tools and Applications, 79(39), pp. 28477-28498. (4th August 2020). Indexed in SCI. IF 2.7.",
+            "Pursuing PhD in Computer Science (Jan - 2021) at Michigan Technological University, Houghton, MI 49931, United States."
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "students": [
+        {
+          "name": "Anupama Hazarika",
+          "institution": "Tezpur University, Tezpur",
+          "duration": "2 Months",
+          "details": [
+            "Publication: Jitendra V. Tembhurne, Anupama Hazarika, Tausif Diwan, 'BrC-MCDLM: Breast Cancer Detection Using Multi-Channel Deep Learning Model', Multimedia Tools and Applications...",
+            "Pursuing PG at Institute of Rural Management Anand (IRMA), Gujrat."
+          ]
+        },
+        {
+          "name": "Moin Almin",
+          "institution": "Tezpur University, Tezpur",
+          "duration": "2 Months",
+          "details": [
+            "Publication: Jitendra V. Tembhurne, Md. Moin Almin and Tausif Diwan, 'Mc-DNN: Fake News Detection using Multi-channel Deep Neural Networks' ...",
+            "Software Engineer at Zaloni Technologies India Pvt. Ltd., Assam, India (July - 2021)"
+          ]
+        },
+        {
+          "name": "Tarun Saxena",
+          "institution": "IIIT Nagpur",
+          "duration": "2 Months",
+          "details": [
+            "Publication: Jitendra V. Tembhurne, Tarun Saxena and Tausif Diwan, 'Identification of plant disease using multi-level classification deep model' ...",
+            "Pursuing MS at Northeastern University, Boston"
+          ]
+        },
+        {
+          "name": "S. Arvind",
+          "institution": "IIIT Nagpur",
+          "duration": "2 Months",
+          "details": [
+            "Publication: S Arvind, Jitendra V. Tembhurne, Tausif Diwan, Parul Sahare, 'Improvised Light Weight Deep CNN based U-Net for the Semantic Segmentation of Lungs from Chest X-Ray' ...",
+            "Software Development Engineer @ yellow.ai"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "students": [
+        {
+          "name": "Nachiketa Hebbar",
+          "institution": "VIT University, Vellore",
+          "duration": "2 Months",
+          "details": [
+            "Publication: Jitendra V. Tembhurne, Nachiketa Hebbar, Hemprasad Patil, Tausif Diwan, 'Skin Cancer Detection Using Ensemble of Machine Learning and Deep Learning Techniques' ...",
+            "Pursuing MS in MISM-2024 at CMU Pittsburgh, PA."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "_comment": "Teaching experience and visiting faculty positions.",
+  "academicPositions": [
+    {
+      "period": "2022 - till date",
+      "title": "Assistant Professor",
+      "department": "Department of Computer Science and Engineering",
+      "institution": "Indian Institute of Information Technology (IIIT) Nagpur, Maharashtra, India"
+    },
+    {
+      "period": "2020 - 2022",
+      "title": "Head of the Department and Assistant Professor",
+      "department": "Department of Computer Science and Engineering",
+      "institution": "Indian Institute of Information Technology (IIIT) Nagpur, Maharashtra, India"
+    },
+    {
+      "period": "2018 - 2020",
+      "title": "Assistant Professor",
+      "department": "Department of Computer Science and Engineering",
+      "institution": "Indian Institute of Information Technology (IIIT) Nagpur, Maharashtra, India"
+    },
+    {
+      "period": "2016 - 2018",
+      "title": "Assistant Professor",
+      "department": "Department of Computer Engineering",
+      "institution": "St. Vincent Pallotti College of Engineering and Technology, Nagpur, India"
+    },
+    {
+      "period": "2007 - 2011",
+      "title": "Assistant Professor",
+      "department": "Department of Computer Technology",
+      "institution": "Kavikulguru Institute of Technology & Science (KITS), Ramtek, Nagpur, India"
+    },
+    {
+      "period": "2005 - 2006",
+      "title": "Lecturer",
+      "department": "Department of Computer Technology",
+      "institution": "Kavikulguru Institute of Technology & Science (KITS), Ramtek, Nagpur, India"
+    }
+  ],
+  "visitingFaculty": [
+    {
+      "period": "August to December 2023",
+      "description": "B.E. 7th Semester of course 'Reinforcement Learning' at Jyothishmathi Institute of Technology and Science (JITS), Karimnagar, Telangana."
+    },
+    {
+      "period": "May to August 2023",
+      "description": "B.E. 4th Semester of course 'Theoretical Foundation of Computer Science' at TGPCET, Nagpur."
+    },
+    {
+      "period": "Jan to May 2020",
+      "description": "M. Tech. 6th Semester of course 'Information Processing and Coding' at ABV-IIITM, Gwalior."
+    }
+  ]
+}

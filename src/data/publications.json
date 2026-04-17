@@ -1,0 +1,95 @@
+{
+  "_comment": "To add a publication, add a new string to the appropriate year array.",
+  "publications": {
+    "2026": [
+      "Smita Shende, Jitendra Tembhurne, Anil Kumar Kushwah, Maunendra Sankar Desarkar, \u201cC2AF: A Contextual Cross-Attention Fusion Framework for Sentiment-Aware Stock Trading Signal Prediction\u201d, Computational Economics, 2026 (April). Indexed in SCI (Q2). IF 2.2.",
+      "Omesh Wadhawani, Jitendra Tembhurne, \u201cDeep Learning for Lung and Colorectal Cancer Diagnosis: Transformers, Multimodal Fusion, and Real-Time Deployment\u201d, Archives of Computational Methods in Engineering, 2026 (March). DOI: https://doi.org/10.1007/s11831-026-10545-3. Top 5% in Engineering. Indexed in SCI (Q1). IF 12.1.",
+      "Prasad Patil, Jitendra Tembhurne, Suvra Joyti Choudhury, \u201cQuantum State Measurement System with Dynamic Oracle Adaptation for Enhanced Parameter Estimation in NISQ Devices\u201d, IEEE Transactions on Instrumentation & Measurement, vol. 75, pp. 1-8, 2026, Art no. 1500808. 2026 (January). DOI: 10.1109/TIM.2026.3659640. Indexed in SCI (Q1). IF 5.9."
+    ],
+    "2025": [
+      "Madhuri Dubey, Jitendra Tembhurne, and Richa Makhijani, \u201cEnhancing Federated Learning through Differential Privacy: Introducing FedHybrid for Multicenter Diverse Heart Disease Datasets\u201d, IEEE Transactions on Emerging Topics in Computational Intelligence, 18 June 2025. DOI: 10.1109/TETCI.2025.3575420. Indexed in SCI (Q1). IF 5.3."
+    ],
+    "2024": [
+      "Jitendra Tembhurne, Kirtan Lakhotia, Anant Agrawal, \u201cTwitter Sentiment Analysis Using Ensemble of Multi-channel Model based on Machine Learning and Deep Learning Techniques\u201d, Knowledge and Information Systems, (11th October 2024). DOI: https://doi.org/10.1007/s10115-024-02256-7. Indexed in SCI (Q1). IF 2.5.",
+      "Rutvik Page, Arnav Doifode, Jitendra Tembhurne, Aishwarya Sagar Anand Ukey, \u201cParticipatory Budget Allocation Method for Approval Ballots\u201d, p. 1-8, 9th October 2024. DOI: http://arxiv.org/abs/2410.06775. (Preprint).",
+      "Rohan Shukla, Ekta Ghuse, Tausif Diwan, Jitendra V. Tembhurne, Parul Sahare, \u201cGA-MPG: efficient genetic algorithm for improvised mobile plan generation\u201d, Journal of Ambient Intelligence and Humanized Computing, 15(10):3675-3691, 2024. (August 2024). DOI: https://doi.org/10.1007/s12652-024-04846-3. Indexed in SCOPUS (Q1). IF 4.14.",
+      "Saurav M. Gajbhiye, Purva R. Goydani, Vedant R. Gannarpwar, Harshal R. Khandait, Jitendra V. Tembhurne, Tausif Diwan, Parul Sahare, \u201cEarly Detection of Stroke Disease using Patients previous medical data instil with Deep Learning\u201d, Multimedia Tools and Applications, 1 July 2024. DOI: https://doi.org/10.1007/s11042-024-19741-4. Indexed in SCOPUS (Q1). IF 2.7.",
+      "Jitendra Tembhurne, Anant Agrawal, Kirtan Lakhotia, \u201cCOVID-19 Twitter Sentiment Classification Using Hybrid Deep Learning Model Based on Grid Search Methodology\u201d, p. 1-14, 18 June 2024. DOI: https://arxiv.org/abs/2406.10266. (Preprint).",
+      "Madhuri Dubey, Jitendra V. Tembhurne, Richa Makhijani, \u201cImproving coronary heart disease prediction with real-life dataset: a stacked generalization framework with maximum clinical attributes and SMOTE balancing for imbalanced data\u201d, Multimedia Tools and Applications, 2024 (1st June 2024). DOI: https://doi.org/10.1007/s11042-024-19429-9. Indexed in SCOPUS (Q1). IF 2.7.",
+      "Dipak W. Wajgi, Jitendra V. Tembhurne, Rakhi D. Wajgi, \u201cRSSI and AoA Combination using PSO-Based Clustering for Localization in WSN\u201d, Ad Hoc & Sensor Wireless Networks, vol. 58, no. 3-4, p. 195-241, 2024. (1st March 2024). DOI: 10.32908/ahswn.v58.9877. Indexed in SCI (Q3). IF 0.9.",
+      "Shailendra W. Shende, Jitendra V. Tembhurne, Nishat Anasari, \u201cDeep Learning Based Authentication Schemes for Smart Mobile Devices\u201d, Multimedia Tools and Applications, 2024. (8th Feb 2024). DOI: https://doi.org/10.1007/s11042-024-18350-5. Indexed in SCI (Q1). IF 2.7.",
+      "Dipak W Wajgi, Jitendra V Tembhurne, Rakhi D Wajgi, \u201cDistance-Based Localization in Wireless Sensor Network Using Exponential Grey Prediction Model\u201d, International Journal of Business Data Communications and Networking (IJBDCN), 19(1), 1-22, January 2024. DOI: 10.4018/IJBDCN.353393. Indexed in SCOPUS (Q3). IF 1.0.",
+      "Dubey M., Jitendra Tembhurne, Richa Makhijani, \u201cHeart Failure prediction on diversified datasets to improve generalizability using 2-Level Stacking\u201d, Multidisciplinary Science Journal, 6(3), 2024028-2024028, 2024. 31st August 2023. DOI: https://10.31893/multiscience.2024028. Indexed in SCOPUS (Q4). IF 0.12.",
+      "Sriram Dharwada, Jitendra Tembhurne, and Tausif Diwan, \u201cAn Optimal Weighted Ensemble of 3D CNNs for Early Diagnosis of Alzheimer\u2019s Disease\u201d, SN Computer Science, 5:252, 2024. (26 December 2023). DOI: https://doi.org/10.1007/s42979-023-02581-8. Indexed in SCOPUS (Q2). IF 3.78.",
+      "Jitendra V. Tembhurne, \u201cClassification of COVID-19 patients from HRCT Score Prediction in CT Images Using Transfer Learning Approach\u201d, Journal of Electrical Systems and Information Technology, 11, 4 (2024). (21 December 2023). https://doi.org/10.1186/s43067-023-00129-7."
+    ],
+    "2023": [
+      "Rakhi Wajgi, Jitendra Tembhurne, Dipak Wajgi, Tapan Jain, \u201cInternet of Everything: Applications\u201d, Modern Approaches in IoT and Machine Learning for Cyber Security. Internet of Things, (2024). 08 December 2023. Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-09955-7_9. Indexed in SCOPUS.",
+      "Dipak Wajgi, Jitendra Tembhurne, Rakhi Wajgi, Tapan Jain, \u201cCommunication in IoT Devices\u201d, Modern Approaches in IoT and Machine Learning for Cyber Security. Internet of Things, (2024). 08 December 2023. Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-09955-7_2. Indexed in SCOPUS.",
+      "Shailendra Shende, Jitendra V. Tembhurne, Tapan Kumar Jain, \u201cArtificial Intelligence and Machine Learning with IoT\u201d, Modern Approaches in IoT and Machine Learning for Cyber Security. Internet of Things, (2024). 08 December 2023. Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-09955-7_10. Indexed in SCOPUS.",
+      "Jitendra V. Tembhurne, Tausif Diwan, Tapan Kumar Jain, \u201cIoT Security and Privacy\u201d, Modern Approaches in IoT and Machine Learning for Cyber Security. Internet of Things, (2024). 08 December 2023. Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-09955-7_3. Indexed in SCOPUS.",
+      "Tausif Diwan, Jitendra Tembhurne, Tapan Kumar Jain, Pooja Jain, \u201cDeep Learning for IoT\u201d, Modern Approaches in IoT and Machine Learning for Cyber Security. Internet of Things, (2024). 08 December 2023. Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-09955-7_8. Indexed in SCOPUS.",
+      "Abhishek Pathak, Jitendra Tembhurne, C. Kalaiarasan, Tapan Jain, \u201cIoT Design Methodology: Architectures and Protocols\u201d, Modern Approaches in IoT and Machine Learning for Cyber Security. Internet of Things, (2024). 08 December 2023. Springer, Cham. https://doi.org/10.1007/978-3-031-09955-7_1. Indexed in SCOPUS.",
+      "Pulkit Batra, Nimish Phalnikar, Deepesh Kurmi, Jitendra V. Tembhurne, Parul Sahare, Tausif Diwan, \u201cOCR-MRD: Performance Analysis of Different Optical Character Recognition Engines for Medical Report Digitization\u201d, International Journal of Information Technology, 16, 447\u2013455 (2024). Accepted. 25th Oct 2023. Indexed in SCOPUS (Q2). IF 2.5.",
+      "Shrishti Shah, Jitendra V. Tembhurne, \u201cObject Detection Using Convolutional Neural Networks and Transformer Based Models: A Review\u201d, Journal of Electrical Systems and Information Technology, 10(1), 54, (2023). 6th Nov 2023. DOI: https://doi.org/10.1186/s43067-023-00123-z. Indexed in SCOPUS. IF 0.187.",
+      "Dharwada Sesha Sriram, Aseem Ranjan, Vedant Ghuge, Naveen Rathore, Raghav Agarwal, Tausif Diwan, Jitendra V. Tembhurne, \u201cPersonalized Federated Learning for the Detection of COVID\u201119\u201d, Multimedia Tools and Applications, 2023. 31st August 2023. DOI: https://doi.org/10.1007/s11042-023-16810-y. Indexed in SCI (Q1). IF 2.7.",
+      "Dipak Wajgi and Jitendra V. Tembhurne, \u201cA Clustering based 3D Localization in Wireless Sensor Networks using RSSI and AOA\u201d, SN Computer Science, 4(5), 682, 2023. 12th July 2023. DOI: 10.1007/s42979-023-02139-8. Indexed in SCOPUS (Q2). IF 3.78.",
+      "Ashish Kamble, Vishesh Gaikwad, Jitendra V. Tembhurne, \u201cA provably lightweight mutually authentication and key establishment protocol using extended chaotic map for Telecare medicine information system\u201d, International Journal of Information Technology, 15, 3211\u20133227 (2023). 24th June 2023. DOI: 10.1007/s41870-023-01314-7. Indexed in SCOPUS (Q2). IF 2.5.",
+      "Dipak Wajgi and Jitendra V. Tembhurne, \u201cLocalization in Wireless Sensor Networks and Wireless Multimedia Sensor Networks Using Clustering Techniques\u201d, Multimedia Tools and Applications, 18th June 2023. DOI: 10.1007/s11042-023-15956-z. Indexed in SCI (Q1). IF 2.7.",
+      "Rakhi Wajgi, Jitendra Tembhurne, Hemant Pendharkar, Onkar Deshpande, \u201cLocalisation of brain tumor from brain MRI images using deep learning\u201d, Recent Advances in Material, Manufacturing, and Machine Learning, (pp. 635-642), 8 pages, CRC Press, 26 May 2023, eBook ISBN \u2013 9781003358596. DOI: https://doi.org/10.1201/9781003358596. Book Chapter. Indexed in SCOPUS.",
+      "Parul Sahare, Jitendra V. Tembhurne, Mayur R. Parate, Tausif Diwan and Sanjay B. Dhok, \u201cScript independent text segmentation of document images using graph network based shortest path scheme\u201d, International Journal of Information Technology, 9th March 2023. DOI: https://doi.org/10.1007/s41870-023-01230-w. Indexed in SCOPUS (Q2). IF 2.5.",
+      "Jitendra V. Tembhurne, Nachiketa Hebbar, Hemprasad Y. Patil, Tausif Diwan, \u201cSkin Cancer Detection Using Ensemble of Machine Learning and Deep Learning Techniques\u201d, Multimedia Tools and Applications, (2023). DOI: https://doi.org/10.1007/s11042-023-14697-3. 16th Feb 2023. Indexed in SCI (Q1). IF 2.7.",
+      "Jitendra V. Tembhurne, Saurav M. Gajbhiye, Vedant R. Gannarpwar, Harshal R. Khandait, Purva R. Goydani, Tausif Diwan, \u201cPlant Disease Detection Using Deep Learning Based Mobile Application\u201d, Multimedia Tools and Applications, (2023). DOI: https://doi.org/10.1007/s11042-023-14541-8. 10th Feb 2023. Indexed in SCI (Q1). IF 2.7.",
+      "S Arvind, Jitendra V. Tembhurne, Tausif Diwan, Parul Sahare, \u201cImprovised Light Weight Deep CNN based U-Net for the Semantic Segmentation of Lungs from Chest X-Ray\u201d, Results in Engineering, (2023): 17:100929. DOI: https://doi.org/10.1016/j.rineng.2023.100929. 7th Feb 2023. Indexed in SCOPUS (Q1). IF 4.06."
+    ],
+    "2022": [
+      "Saroj Panda, Tausif Diwan, O. G. Kakde, Jitendra V. Tembhurne, \u201cImprovised Detection of Deepfake from Visual Inputs Using Light Weight Deep Ensemble Model\u201d, Multimedia Tools and Applications, 1-18, December 2022. DOI: 10.1007/s11042-022-14307-8. Indexed in SCI (Q1). IF 2.7.",
+      "Parul Sahare, Jitendra V. Tembhurne, Mayur R. Parate, Tausif Diwan and Sanjay B. Dhok, \u201cScript-Independent Text Segmentation from Document Images\u201d, International Journal of Ambient Computing and Intelligence (IJACI), 13(1), November 2022, Pages: 21. DOI: 10.4018/IJACI.313967. Indexed in SCOPUS (Q3). IF 3.87.",
+      "Jitendra V. Tembhurne, Tarun Saxena and Tausif Diwan, \u201cIdentification of plant disease using multi-level classification deep model\u201d, International Journal of Ambient Computing and Intelligence (IJACI), 13(1), September 2022, Pages: 21. DOI: 10.4018/IJACI.309408. Indexed in SCOPUS (Q3). IF 3.87.",
+      "Tausif Diwan, G. Anirudh and Jitendra V. Tembhurne, \u201cObject Detection using YOLO: Challenges, Architectural Successors, Datasets and Applications,\u201d Multimedia Tools and Applications, 82, 9243\u20139275, 2023. (8th August 2022). DOI: https://doi.org/10.1007/s11042-022-13644-y. Indexed in SCI (Q1). IF 2.7.",
+      "Tausif Diwan, Rohan Shukla, Ekta Ghuse, and Jitendra V. Tembhurne, \u201cModel Hybridization & Learning Rate Annealing for Skin Cancer Detection\u201d, Multimedia Tools and Applications, 82, 2369\u20132392 (2023). (23 June 2022). DOI: https://doi.org/10.1007/s11042-022-12633-5. Indexed in SCI (Q1). IF 2.7.",
+      "Tausif Diwan and Jitendra V. Tembhurne, \u201cSentiment Analysis: A Convolutional Neural Network Perspective\u201d, Multimedia Tools and Applications, 3 June 2022. DOI: https://doi.org/10.1007/s11042-021-11759-2. Indexed in SCI (Q1). IF 2.7.",
+      "Jitendra V. Tembhurne, Md. Moin Almin and Tausif Diwan, \u201cMc-DNN: Fake News Detection using Multi-channel Deep Neural Networks\u201d, International Journal on Semantic Web and Information Systems (IJSWIS), 18(1), 1-20, 2022. (January 2022). DOI: 10.4018/IJSWIS.295553. Indexed in SCI (Q1). IF 1.74.",
+      "Sriram Dharwada, Jitendra Tembhurne and Tausif Diwan, \u201cMulti-channel Deep Model for Classification of Alzheimer\u2019s Disease Using Transfer Learning\u201d, 18th International Conference on Distributed Computing and Intelligent Technology, 19th \u2013 23rd January 2022. Best Paper Award in Intelligent Technologies Track."
+    ],
+    "2021": [
+      "Wajgi, Rakhi, Jitendra V. Tembhurne, and Dipak Wajgi, \"Thoracic Image Analysis Using Deep Learning\u201d, Computational Intelligence and Healthcare Informatics (2021): 15-42.",
+      "Vishesh P. Gaikwad, Jitendra V. Tembhurne, C Meshram, Cheng-Chi Lee, \u201cAn Efficient Provably Secure Verifier-based Three-Factor Authentication Technique using PDL for Data Exchange in TMIS\u201d, IEEE Access, 9, 108586-108600, 2021.",
+      "Jitendra V. Tembhurne, Anupama Hazarika, Tausif Diwan, \u201cBrC-MCDLM: Breast Cancer Detection Using Multi-Channel Deep Learning Model\u201d, Multimedia Tools and Applications, 80(21), 31647-31670, 2021.",
+      "C. Meshram, R. W. Ibrahim, M. S. Obaidat, Balqies Sadoun, S. G. Meshram and Jitendra V. Tembhurne, \u201cAn effective mobile-healthcare emerging emergency medical system using conformable chaotic maps\u201d, Soft Computing, 25(14): 8905-8920, 2021.",
+      "Vishesh P. Gaikwad, Jitendra V. Tembhurne, C Meshram, Cheng-Chi Lee, \u201cProvably Secure Lightweight Client Authentication Scheme with Anonymity for TMIS using Chaotic Hash Function\u201d, The Journal of Supercomputing, 77, 8281\u20138304, 2021.",
+      "C Meshram, Ahmed Alsanad, Jitendra V. Tembhurne, Shailendra W. Shende, Kailash W. Kalare, Sarita Gajbhiye Meshram, Muhammad Azeem Akbar and Abdu Gumaei, \u201cA Provably Secure Lightweight Subtree-based Short Signature Scheme with Fuzzy User Data Sharing for Human-Centered IoT\u201d, IEEE Access, 9, 3649-3659, 2021."
+    ],
+    "2020": [
+      "C Meshram, Mohammad S. Obaidat, Jitendra V. Tembhurne, Shailendra W. Shende, Kailash W. Kalare, Sarita Gajbhiye Meshram, \u201cA Lightweight Provably Secure Digital Short Signature Technique using Extended Chaotic Maps for Human-Centered IoT Systems\u201d, IEEE System Journal, pp. 1-9, 2020.",
+      "Kailash W. Kalare, Mohammad S. Obaidat, Jitendra V. Tembhurne, C Meshram, Kuei-Fang Hsiao, \u201cParallelization of Global Sequence Alignment on Graphics Processing Unit\u201d, Int. Conf. on Communications, Computing, Cybersecurity, and Informatics 2020, CCCI-2020.",
+      "Jitendra V. Tembhurne and Tausif Diwan, \u201cSentiment Analysis in Textual, Visual and Multimodal Inputs using Recurrent Neural Networks\u201d, Multimedia Tools and Applications, 80(5), pp. 6871\u20136910, 2021.",
+      "S. Chaturvedi, Jitendra V. Tembhurne, Tausif Diwan, \u201cA Multi-Class Skin Cancer Classification using Deep Convolutional Neural Networks\u201d, Multimedia Tools and Applications, 79(39), pp. 28477-28498.",
+      "C Meshram, Cheng\u2010Chi Lee, Abhay S. Ranadive, Chun\u2010Ta Li, Sarita Gajbhiye Meshram, Jitendra V. Tembhurne, \u201cA Subtree-based Transformation Model for Cryptosystem using Chaotic Maps under Cloud Computing Environment for Fuzzy User Data Sharing\u201d, International Journal of Communication Systems, 33 (7), e4307, February 2020."
+    ],
+    "2019": [
+      "Tausif Diwan, J. V. Tembhurne, \u201cA Parallelization of Non-Serial Polyadic Dynamic Programming on GPU\u201d, CIT. Journal of Computing and Information Technology, Vol. 27, No. 2, June 2019, pp. 55\u201366.",
+      "Kailash W Kalare, J. V. Tembhurne, \u201cA Work Distribution Strategy for Global Sequence Alignment\u201d, International Journal of Computing, Vol. 18, No. 1, April 2019, pp. 75-81."
+    ],
+    "2018": [
+      "J. V. Tembhurne, S. R. Sathe, \u201cMulti-Precision Integer Multiplication for Cryptosystems\u201d, Advanced Science Letters, Vol. 24, No. 7, July 2018, pp. 5187-5193.",
+      "J. V. Tembhurne, \u201cParallel Multiplication of Big Integer on GPU\u201d, Communications in Computer and Information Science, Springer, Vol. 827, June 2018, pp. 276-285.",
+      "Pathak, Abhishek D. and Tembhurne, Jitendra V., \u201cInternet of Things: A Survey on IoT Protocols\u201d, In Proc. of 3rd International Conference on Internet of Things and Connected Technologies (ICIoTCT), 2018."
+    ],
+    "2016": [
+      "J. V. Tembhurne, S. R. Sathe, \u201cNew Modified Euclidean and Binary Greatest Common Divisor Algorithm\u201d, IETE Journal of Research, Vol. 62, 2016, pp. 852-858.",
+      "J. V. Tembhurne and S. R. Sathe, \u201cRSA public-key Acceleration on CUDA GPU\u201d, Advances in Intelligent Systems and Computing, Springer, Vol. 394, 2016, pp. 365-375."
+    ],
+    "2015": [
+      "J. V. Tembhurne, S. R. Sathe, \u201cMultiple Precision Integer GCD Performance Analysis on Parallel Architectures\u201d, IAENG International Journal of Computer Science, Vol. 42, No. 4, 2015, pp. 1-9."
+    ],
+    "2014": [
+      "J. V. Tembhurne and S. R. Sathe, \u201cHigh throughput long integer multiplication using Fast Fourier Transform on parallel workstation,\u201d 11th IEEE India Int. Conf. INDICON, pp. 1-6, Pune, India, 16-18 Dec 2014.",
+      "J. V. Tembhurne, S. R. Sathe,  \u201cPerformance Evaluation of  Long Integer Multiplication Using OpenMP and MPI on Shared Memory Architecture\u201d, Seventh Int. Conf. on Contemporary Computing  (IC3 2014), pp. 283-288, Noida, India, 7-9 August 2014."
+    ],
+    "2011": [
+      "J. V. Tembhurne, Navin Kr. Trivedi, \u201cFrequent Closed Pattern Mining by Constrained Gradient Approach\u201d, 3rd Int. Conf. on Information Technology & Business Intelligence (ITBI-2011), Hyderabad, India.",
+      "J. V. Tembhurne, S. W. Shende, \u201cEfficient Mining of Association Rules Using Linked List and Tries Based Apriori Algorithm\u201d, IEEE Int. Conf. on Knowledge Engineering (ICKE-2011), Aurangabad, India 29-31 January 2011."
+    ]
+  }
+}
