@@ -41,7 +41,7 @@ export default function Experience({ data }) {
           gap: 1.5rem;
           margin-left: 1rem;
           padding-left: 2rem;
-          border-left: 2px solid var(--border-light);
+          border-left: 2px solid rgba(13, 110, 253, 0.25);
         }
         .pos-item {
           display: flex;

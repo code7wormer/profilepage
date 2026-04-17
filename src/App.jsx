@@ -5,7 +5,7 @@ import Home from "./tabs/Home";
 import Experience from "./tabs/Experience";
 import Publications from "./tabs/Publications";
 import Teaching from "./tabs/Teaching";
-import Supervision from "./tabs/Supervision";
+import Lab from "./tabs/Lab";
 import Research from "./tabs/Research";
 import Service from "./tabs/Service";
 
@@ -24,7 +24,7 @@ const TABS = [
   { id: "experience", label: "Experience", component: Experience, data: experienceData },
   { id: "publications", label: "Publications", component: Publications, data: publicationsData },
   { id: "research", label: "Research", component: Research, data: researchData },
-  { id: "supervision", label: "Supervision", component: Supervision, data: studentsData },
+  { id: "lab", label: "Lab", component: Lab, data: studentsData },
   { id: "teaching", label: "Teaching", component: Teaching, data: teachingData },
   { id: "service", label: "Service & Awards", component: Service, data: serviceData },
 ];

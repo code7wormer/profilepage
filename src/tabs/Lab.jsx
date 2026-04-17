@@ -1,10 +1,10 @@
-export default function Supervision({ data }) {
+export default function Lab({ data }) {
   const { phdSupervision, internships } = data;
 
   return (
-    <div className="supervision-page">
+    <div className="lab-page">
       <section className="section">
-        <h2 className="section-title">PhD Supervision</h2>
+        <h2 className="section-title">Lab PhD Scholars</h2>
         
         <div className="summary-banner">
           {Object.entries(phdSupervision.summary).map(([label, value], i) => (
@@ -34,7 +34,7 @@ export default function Supervision({ data }) {
       </section>
 
       <section className="section">
-        <h2 className="section-title">Internships Mentored</h2>
+        <h2 className="section-title">Lab Alumni & Interns</h2>
         <div className="internship-timeline">
           {internships.map((yearGroup, i) => (
             <div key={i} className="intern-year-block">
